@@ -92,12 +92,12 @@ pitchside-pro-report/
 ├── README.md                         
 ├── report/
 │   └── PitchSide_Pro_Report.pbix      
-└── screenshots/
-    ├── 01_overview.png
-    ├── 02_products.png
-    ├── 03_regions_channels.png
-    ├── 04_customers.png
-    └── 05_recommendations.png
+├── screenshots/
+│   ├── 01_summary.png
+│   ├── 02_rented_vs_owned.png
+│   ├── 03_mix_and_margin.png
+│   ├── 04_durability.png
+│   └── 05_where_to_focus.png
 ```
  
 ---
