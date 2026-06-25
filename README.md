@@ -103,11 +103,12 @@ pitchside-pro-report/
 ---
  
 ## Report Preview
- 
-<!-- Add your screenshots or demo video here -->
-<!-- To embed a video: drag the .mp4 into the GitHub README editor and it auto-embeds -->
- 
-*Screenshots / demo coming soon.*
+
+![alt text](image.png)
+![alt text](image-1.png)
+![alt text](image-2.png)
+![alt text](image-3.png)
+![alt text](image-4.png)
  
 ---
  
